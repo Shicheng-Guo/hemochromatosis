@@ -1,0 +1,51 @@
+SYMBOL,NAME,ENTREZ_ID,SCORE
+MRGPRD,MAS related GPR family member D,116512,0.14057627212378623
+DNAH1,dynein axonemal heavy chain 1,25981,0.13798827640077127
+BARHL2,BarH like homeobox 2,343472,0.13203706011697075
+SULT1A3,sulfotransferase family 1A member 3,6818,0.1313392454291127
+EIF5AL1,eukaryotic translation initiation factor 5A-like 1,143244,0.12819074836195993
+IQCN,IQ motif containing N,80726,0.12393655285153758
+OR6N1,olfactory receptor family 6 subfamily N member 1,128372,0.1212694266210746
+C2orf27B,chromosome 2 open reading frame 27B,408029,0.11992635887515272
+NBPF15,NBPF member 15,284565,0.11935631939117976
+LRRC26,leucine rich repeat containing 26,389816,0.11928569882466779
+CLEC6A,C-type lectin domain containing 6A,93978,0.11920620390876803
+AKAP2,A-kinase anchoring protein 2,11217,0.11811192034422732
+OR5B17,olfactory receptor family 5 subfamily B member 17,219965,0.11787097482390792
+KRTAP10-4,keratin associated protein 10-4,386672,0.11766109310293707
+AGAP9,ArfGAP with GTPase domain, ankyrin repeat and PH domain 9,642517,0.11741199613915593
+GPR152,G protein-coupled receptor 152,390212,0.11642332768466128
+INCA1,inhibitor of CDK, cyclin A1 interacting protein 1,388324,0.11587199970857603
+PCDHGC5,protocadherin gamma subfamily C, 5,56097,0.11513338125470658
+HIST4H4,histone cluster 4 H4,121504,0.11454691936193295
+NHLRC1,NHL repeat containing E3 ubiquitin protein ligase 1,378884,0.11454064886203626
+OR2M2,olfactory receptor family 2 subfamily M member 2,391194,0.11446177853898773
+TMEM239,transmembrane protein 239,100288797,0.11385320341160003
+CMC4,C-X9-C motif containing 4,100272147,0.1137958873000726
+KRTAP12-4,keratin associated protein 12-4,386684,0.11371195536364012
+OR51G1,olfactory receptor family 51 subfamily G member 1 (gene/pseudogene),79324,0.1136262479371938
+OR1N2,olfactory receptor family 1 subfamily N member 2,138882,0.11315816459764365
+IGLL5,immunoglobulin lambda like polypeptide 5,100423062,0.11311727234452398
+LCN9,lipocalin 9,392399,0.11310600868212534
+C18orf63,chromosome 18 open reading frame 63,644041,0.11304160561353738
+SLX1B,SLX1 homolog B, structure-specific endonuclease subunit,79008,0.11304160561353738
+F8A2,coagulation factor VIII associated 2,474383,0.11304160561353738
+FOXD4L4,forkhead box D4 like 4,349334,0.11299225050407793
+OR4A47,olfactory receptor family 4 subfamily A member 47,403253,0.11258511985016409
+KRTAP10-7,keratin associated protein 10-7,386675,0.11206850349500419
+H2AFB3,H2A histone family member B3,83740,0.11192344893944392
+PRR21,proline rich 21,643905,0.1118415008488575
+PLIN5,perilipin 5,440503,0.11182777146605535
+OR4C46,olfactory receptor family 4 subfamily C member 46,119749,0.11147278691570009
+C10orf71,chromosome 10 open reading frame 71,118461,0.11146800505887108
+NBPF12,NBPF member 12,149013,0.11138998504895027
+RNF113B,ring finger protein 113B,140432,0.11105272784852137
+OR4F17,olfactory receptor family 4 subfamily F member 17,81099,0.11063168378049688
+PRSS38,protease, serine 38,339501,0.11055007877125456
+TMEM240,transmembrane protein 240,339453,0.1105302450127607
+SOWAHD,sosondowah ankyrin repeat domain family member D,347454,0.11037751127240227
+EBLN1,endogenous Bornavirus like nucleoprotein 1,340900,0.11003358602364868
+LCE1C,late cornified envelope 1C,353133,0.10991447657730337
+CCER2,coiled-coil glutamate rich protein 2,643669,0.109581761087234
+PPP1R3G,protein phosphatase 1 regulatory subunit 3G,648791,0.109505734125109
+VSTM2B,V-set and transmembrane domain containing 2B,342865,0.10945898291908954

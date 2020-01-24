@@ -1,0 +1,173 @@
+7421  	VDR; vitamin D receptor [KO:K08539]
+140803  	TRPM6; transient receptor potential cation channel subfamily M member 6 [KO:K04981] [EC:2.7.11.1]
+54822  	TRPM7; transient receptor potential cation channel subfamily M member 7 [KO:K04982] [EC:2.7.11.1]
+55503  	TRPV6; transient receptor potential cation channel subfamily V member 6 [KO:K04975]
+795  	S100G; S100 calcium binding protein G [KO:K14734]
+1811  	SLC26A3; solute carrier family 26 member 3 [KO:K14078]
+65010  	SLC26A6; solute carrier family 26 member 6 [KO:K14704]
+115019  	SLC26A9; solute carrier family 26 member 9 [KO:K14706]
+1181  	CLCN2; chloride voltage-gated channel 2 [KO:K05011]
+6550  	SLC9A3; solute carrier family 9 member A3 [KO:K12040]
+6523  	SLC5A1; solute carrier family 5 member 1 [KO:K14158]
+340024  	SLC6A19; solute carrier family 6 member 19 [KO:K05334]
+476  	ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:3.6.3.9]
+477  	ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:3.6.3.9]
+478  	ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:3.6.3.9]
+480  	ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:3.6.3.9]
+23439  	ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+481  	ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+482  	ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+483  	ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+486  	FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+3162  	HMOX1; heme oxygenase 1 [KO:K00510] [EC:1.14.14.18]
+3163  	HMOX2; heme oxygenase 2 [KO:K21418] [EC:1.14.14.18]
+79901  	CYBRD1; cytochrome b reductase 1 [KO:K08370] [EC:1.16.5.1]
+4891  	SLC11A2; solute carrier family 11 member 2 [KO:K21398]
+2495  	FTH1; ferritin heavy chain 1 [KO:K00522] [EC:1.16.3.2]
+2512  	FTL; ferritin light chain [KO:K13625]
+30061  	SLC40A1; solute carrier family 40 member 1 [KO:K14685]
+9843  	HEPH; hephaestin [KO:K14735] [EC:1.16.3.1]
+7018  	TF; transferrin [KO:K14736]
+55630  	SLC39A4; solute carrier family 39 member 4 [KO:K14710]
+7779  	SLC30A1; solute carrier family 30 member 1 [KO:K14688]
+1317  	SLC31A1; solute carrier family 31 member 1 [KO:K14686]
+26872  	STEAP1; STEAP family member 1 [KO:K14737] [EC:1.16.1.-]
+261729  	STEAP2; STEAP2 metalloreductase [KO:K14738] [EC:1.16.1.-]
+4490  	MT1B; metallothionein 1B [KO:K14739]
+4493  	MT1E; metallothionein 1E [KO:K14739]
+4494  	MT1F; metallothionein 1F [KO:K14739]
+4495  	MT1G; metallothionein 1G [KO:K14739]
+4496  	MT1H; metallothionein 1H [KO:K14739]
+4499  	MT1M; metallothionein 1M [KO:K14739]
+4501  	MT1X; metallothionein 1X [KO:K14739]
+4502  	MT2A; metallothionein 2A [KO:K14739]
+4489  	MT1A; metallothionein 1A [KO:K14739]
+645745  	MT1HL1; metallothionein 1H like 1 [KO:K14739]
+475  	ATOX1; antioxidant 1 copper chaperone [KO:K07213]
+O15342UniProt:O15342 ATP6V0E1 (3x)
+O75348UniProt:O75348 ATP6V1G1 (3x)
+O76003UniProt:O76003 GLRX3 (1x)
+O95670UniProt:O95670 ATP6V1G2 (3x)
+P00450UniProt:P00450 CP (2x)
+P02786UniProt:P02786 TFRC (6x)
+P02787UniProt:P02787 TF (7x)
+P02792UniProt:P02792 FTL (1x)
+P02794UniProt:P02794 FTH1 (1x)
+P09601UniProt:P09601 HMOX1 (1x)
+P0CG47UniProt:P0CG47 UBB (1x)
+P0CG48UniProt:P0CG48 UBC (1x)
+P15313UniProt:P15313 ATP6V1B1 (3x)
+P21281UniProt:P21281 ATP6V1B2 (3x)
+P21283UniProt:P21283 ATP6V1C1 (3x)
+P21399UniProt:P21399 ACO1 (5x)
+P27449UniProt:P27449 ATP6V0C (3x)
+P30519UniProt:P30519 HMOX2 (1x)
+P36543UniProt:P36543 ATP6V1E1 (3x)
+P38606UniProt:P38606 ATP6V1A (3x)
+P48200UniProt:P48200 IREB2 (4x)
+P49281UniProt:P49281 SLC11A2 (1x)
+P61421UniProt:P61421 ATP6V0D1 (3x)
+P62979UniProt:P62979 RPS27A (1x)
+P62987UniProt:P62987 UBA52 (1x)
+P63208UniProt:P63208 SKP1 (4x)
+P80188UniProt:P80188 LCN2 (4x)
+Q13488UniProt:Q13488 TCIRG1 (3x)
+Q13616UniProt:Q13616 CUL1 (5x)
+Q15843UniProt:Q15843 NEDD8 (3x)
+Q15904UniProt:Q15904 ATP6AP1 (3x)
+Q16864UniProt:Q16864 ATP6V1F (3x)
+Q30201UniProt:Q30201 HFE (2x)
+Q53TN4UniProt:Q53TN4 CYBRD1 (1x)
+Q658P3UniProt:Q658P3 STEAP3 (1x)
+Q86VP6UniProt:Q86VP6 CAND1 (2x)
+Q8N4E7UniProt:Q8N4E7 FTMT (1x)
+Q8N8Y2UniProt:Q8N8Y2 ATP6V0D2 (3x)
+Q8NEY4UniProt:Q8NEY4 ATP6V1C2 (3x)
+Q8NFT2UniProt:Q8NFT2 STEAP2 (1x)
+Q8NHE4UniProt:Q8NHE4 ATP6V0E2 (3x)
+Q8WUG5UniProt:Q8WUG5 SLC22A17 (4x)
+Q93050UniProt:Q93050 ATP6V0A1 (3x)
+Q96A05UniProt:Q96A05 ATP6V1E2 (3x)
+Q96LB4UniProt:Q96LB4 ATP6V1G3 (3x)
+Q96NT5UniProt:Q96NT5 SLC46A1 (1x)
+Q99437UniProt:Q99437 ATP6V0B (3x)
+Q9BQS7UniProt:Q9BQS7 HEPH (2x)
+Q9GZU1UniProt:Q9GZU1 MCOLN1 (1x)
+Q9HBG4UniProt:Q9HBG4 ATP6V0A4 (3x)
+Q9NP59UniProt:Q9NP59 SLC40A1 (4x)
+Q9UI12UniProt:Q9UI12 ATP6V1H (3x)
+Q9UKA1UniProt:Q9UKA1 FBXL5 (4x)
+Q9UNQ0UniProt:Q9UNQ0 ABCG2 (1x)
+Q9UP52UniProt:Q9UP52 TFR2 (2x)
+Q9Y487UniProt:Q9Y487 ATP6V0A2 (3x)
+Q9Y5K8UniProt:Q9Y5K8 ATP6V1D (3x)
+Q9Y5Y0UniProt:Q9Y5Y0 FLVCR1 (1x)
+10568  	SLC34A2; solute carrier family 34 member 2 [KO:K14683]
+113235  	SLC46A1; solute carrier family 46 member 1 [KO:K14613]
+490  	ATP2B1; ATPase plasma membrane Ca2+ transporting 1 [KO:K05850] [EC:3.6.3.8]
+538  	ATP7A; ATPase copper transporting alpha [KO:K17686] [EC:3.6.3.54]
+6546  	SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+G	ABCB7	ATP binding cassette subfamily B member 7	
+G	ACO1	aconitase 1	
+G	ALAD	aminolevulinate dehydratase	
+G	ALAS1	5'-aminolevulinate synthase 1	
+G	ALAS2	5'-aminolevulinate synthase 2	
+G	BOLA3	bolA family member 3	
+G	CIAO1	cytosolic iron-sulfur assembly component 1	
+G	CIAPIN1	cytokine induced apoptosis inhibitor 1	
+G	CP	ceruloplasmin	
+G	CPOX	coproporphyrinogen oxidase	
+G	CYBRD1	cytochrome b reductase 1	
+G	FAM96A	family with sequence similarity 96 member A	
+G	FAM96B	family with sequence similarity 96 member B	
+G	FBXL5	F-box and leucine rich repeat protein 5	
+G	FDX1	ferredoxin 1	JBrowse
+G	FDX1L	ferredoxin 1 like	
+G	FDXR	ferredoxin reductase	
+G	FECH	ferrochelatase	
+G	FTH1	ferritin heavy chain 1	
+G	FTL	ferritin light chain	
+G	FTMT	ferritin mitochondrial	
+G	GFER	growth factor, augmenter of liver regeneration	
+G	GLRX5	glutaredoxin 5	
+G	HAMP	hepcidin antimicrobial peptide	
+G	HEPH	hephaestin	
+G	HMBS	hydroxymethylbilane synthase	
+G	HSCB	HscB mitochondrial iron-sulfur cluster cochaperone	
+G	HSPA9	heat shock protein family A (Hsp70) member 9	
+G	IBA57	IBA57, iron-sulfur cluster assembly	
+G	IREB2	iron responsive element binding protein 2	
+G	ISCA1	iron-sulfur cluster assembly 1	
+G	ISCA2	iron-sulfur cluster assembly 2	
+G	ISCU	iron-sulfur cluster assembly enzyme	
+G	LYRM4	LYR motif containing 4	
+G	MMS19	MMS19 homolog, cytosolic iron-sulfur assembly component	JBrowse
+G	NARFL	nuclear prelamin A recognition factor like	
+G	NCOA4	nuclear receptor coactivator 4	
+G	NDOR1	NADPH dependent diflavin oxidoreductase 1	
+G	NFS1	NFS1, cysteine desulfurase	
+G	NFU1	NFU1 iron-sulfur cluster scaffold	
+G	NUBP1	nucleotide binding protein 1	
+G	NUBP2	nucleotide binding protein 2	
+G	NUBPL	nucleotide binding protein like	
+G	PCBP1	poly(rC) binding protein 1	
+G	PCBP1	poly(rC) binding protein 1	
+G	PCBP2	poly(rC) binding protein 2	
+G	PCBP2	poly(rC) binding protein 2	
+G	PCBP3	poly(rC) binding protein 3	
+G	PCBP4	poly(rC) binding protein 4	
+G	PPOX	protoporphyrinogen oxidase	
+G	PRNP	prion protein	
+G	SLC11A2	solute carrier family 11 member 2	
+G	SLC25A28	solute carrier family 25 member 28	
+G	SLC25A37	solute carrier family 25 member 37	
+G	SLC25A38	solute carrier family 25 member 38	
+G	SLC39A14	solute carrier family 39 member 14	
+G	SLC39A8	solute carrier family 39 member 8	
+G	SLC40A1	solute carrier family 40 member 1	
+G	STEAP3	STEAP3 metalloreductase	
+G	TF	transferrin	
+G	TFRC	transferrin receptor	
+G	TSPO	translocator protein	
+G	UROD	uroporphyrinogen decarboxylase	
+G	UROS	uroporphyrinogen III synthase	JBrowse

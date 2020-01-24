@@ -1,0 +1,209 @@
+LOCUS       NM_020996                744 bp    mRNA    linear   PRI 03-OCT-2017
+DEFINITION  Homo sapiens fibroblast growth factor 6 (FGF6), mRNA.
+ACCESSION   NM_020996
+VERSION     NM_020996.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 744)
+  AUTHORS   Li L, Fridley BL, Kalari K, Niu N, Jenkins G, Batzler A, Abo RP,
+            Schaid D and Wang L.
+  TITLE     Discovery of genetic biomarkers contributing to variation in drug
+            response of cytidine analogues using human lymphoblastoid cell
+            lines
+  JOURNAL   BMC Genomics 15, 93 (2014)
+   PUBMED   24483146
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 744)
+  AUTHORS   Jia WH, Zhang B, Matsuo K, Shin A, Xiang YB, Jee SH, Kim DH, Ren Z,
+            Cai Q, Long J, Shi J, Wen W, Yang G, Delahanty RJ, Ji BT, Pan ZZ,
+            Matsuda F, Gao YT, Oh JH, Ahn YO, Park EJ, Li HL, Park JW, Jo J,
+            Jeong JY, Hosono S, Casey G, Peters U, Shu XO, Zeng YX and Zheng W.
+  CONSRTM   Genetics and Epidemiology of Colorectal Cancer Consortium (GECCO);
+            Colon Cancer Family Registry (CCFR)
+  TITLE     Genome-wide association analyses in East Asians identify new
+            susceptibility loci for colorectal cancer
+  JOURNAL   Nat. Genet. 45 (2), 191-196 (2013)
+   PUBMED   23263487
+REFERENCE   3  (bases 1 to 744)
+  AUTHORS   Bosetti M, Leigheb M, Brooks RA, Boccafoschi F and Cannas MF.
+  TITLE     Regulation of osteoblast and osteoclast functions by FGF-6
+  JOURNAL   J. Cell. Physiol. 225 (2), 466-471 (2010)
+   PUBMED   20458746
+  REMARK    GeneRIF: These data demonstrate that FGF-6 may be considered a
+            regulator of bone metabolism as shown by its activity on both
+            osteoblasts and osteoclasts.
+REFERENCE   4  (bases 1 to 744)
+  AUTHORS   Kestenbaum B, Glazer NL, Kottgen A, Felix JF, Hwang SJ, Liu Y,
+            Lohman K, Kritchevsky SB, Hausman DB, Petersen AK, Gieger C, Ried
+            JS, Meitinger T, Strom TM, Wichmann HE, Campbell H, Hayward C,
+            Rudan I, de Boer IH, Psaty BM, Rice KM, Chen YD, Li M, Arking DE,
+            Boerwinkle E, Coresh J, Yang Q, Levy D, van Rooij FJ, Dehghan A,
+            Rivadeneira F, Uitterlinden AG, Hofman A, van Duijn CM, Shlipak MG,
+            Kao WH, Witteman JC, Siscovick DS and Fox CS.
+  TITLE     Common genetic variants associate with serum phosphorus
+            concentration
+  JOURNAL   J. Am. Soc. Nephrol. 21 (7), 1223-1232 (2010)
+   PUBMED   20558539
+REFERENCE   5  (bases 1 to 744)
+  AUTHORS   Moffa AB and Ethier SP.
+  TITLE     Differential signal transduction of alternatively spliced FGFR2
+            variants expressed in human mammary epithelial cells
+  JOURNAL   J. Cell. Physiol. 210 (3), 720-731 (2007)
+   PUBMED   17133345
+REFERENCE   6  (bases 1 to 744)
+  AUTHORS   Vainikka S, Partanen J, Bellosta P, Coulier F, Birnbaum D, Basilico
+            C, Jaye M and Alitalo K.
+  TITLE     Fibroblast growth factor receptor-4 shows novel features in genomic
+            structure, ligand binding and signal transduction
+  JOURNAL   EMBO J. 11 (12), 4273-4280 (1992)
+   PUBMED   1385111
+  REMARK    Erratum:[EMBO J 1993 Feb;12(2):810]
+REFERENCE   7  (bases 1 to 744)
+  AUTHORS   Iida S, Yoshida T, Naito K, Sakamoto H, Katoh O, Hirohashi S, Sato
+            T, Onda M, Sugimura T and Terada M.
+  TITLE     Human hst-2 (FGF-6) oncogene: cDNA cloning and characterization
+  JOURNAL   Oncogene 7 (2), 303-309 (1992)
+   PUBMED   1549352
+REFERENCE   8  (bases 1 to 744)
+  AUTHORS   Coulier F, Batoz M, Marics I, de Lapeyriere O and Birnbaum D.
+  TITLE     Putative structure of the FGF6 gene product and role of the signal
+            peptide
+  JOURNAL   Oncogene 6 (8), 1437-1444 (1991)
+   PUBMED   1886714
+REFERENCE   9  (bases 1 to 744)
+  AUTHORS   Dionne CA, Crumley G, Bellot F, Kaplow JM, Searfoss G, Ruta M,
+            Burgess WH, Jaye M and Schlessinger J.
+  TITLE     Cloning and expression of two distinct high-affinity receptors
+            cross-reacting with acidic and basic fibroblast growth factors
+  JOURNAL   EMBO J. 9 (9), 2685-2692 (1990)
+   PUBMED   1697263
+REFERENCE   10 (bases 1 to 744)
+  AUTHORS   Marics I, Adelaide J, Raybaud F, Mattei MG, Coulier F, Planche J,
+            de Lapeyriere O and Birnbaum D.
+  TITLE     Characterization of the HST-related FGF.6 gene, a new member of the
+            fibroblast growth factor gene family
+  JOURNAL   Oncogene 4 (3), 335-340 (1989)
+   PUBMED   2649847
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from X63454.1 and AC008012.8.
+            On Dec 16, 2014 this sequence version replaced NM_020996.1.
+            
+            Summary: The protein encoded by this gene is a member of the
+            fibroblast growth factor (FGF) family. FGF family members possess
+            broad mitogenic and cell survival activities, and are involved in a
+            variety of biological processes, including embryonic development,
+            cell growth, morphogenesis, tissue repair, tumor growth and
+            invasion. This gene displayed oncogenic transforming activity when
+            transfected into mammalian cells. The mouse homolog of this gene
+            exhibits a restricted expression profile predominantly in the
+            myogenic lineage, which suggested a role in muscle regeneration or
+            differentiation. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X63454.1, BC121097.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2158800, SAMN03465413
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-232               X63454.1           1-232
+            233-233             AC008012.8         59045-59045
+            234-690             X63454.1           234-690
+            691-691             AC008012.8         70232-70232
+            692-744             X63454.1           692-744
+FEATURES             Location/Qualifiers
+     source          1..744
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12p13.32"
+     gene            1..744
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /note="fibroblast growth factor 6"
+                     /db_xref="GeneID:2251"
+                     /db_xref="HGNC:HGNC:3684"
+                     /db_xref="MIM:134921"
+     STS             1..721
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /db_xref="UniSTS:480860"
+     exon            1..390
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             12..691
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /db_xref="UniSTS:482119"
+     STS             17..738
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /db_xref="UniSTS:490467"
+     misc_feature    30..32
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /note="upstream in-frame stop codon"
+     CDS             45..671
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /note="FGF-6; HST-2; HSTF-2; heparin-binding growth factor
+                     6; heparin secretory-transforming protein 2"
+                     /codon_start=1
+                     /product="fibroblast growth factor 6 precursor"
+                     /protein_id="NP_066276.2"
+                     /db_xref="CCDS:CCDS8527.1"
+                     /db_xref="GeneID:2251"
+                     /db_xref="HGNC:HGNC:3684"
+                     /db_xref="MIM:134921"
+                     /translation="MALGQKLFITMSRGAGRLQGTLWALVFLGILVGMVVPSPAGTRA
+                     NNTLLDSRGWGTLLSRSRAGLAGEIAGVNWESGYLVGIKRQRRLYCNVGIGFHLQVLP
+                     DGRISGTHEENPYSLLEISTVERGVVSLFGVRSALFVAMNSKGRLYATPSFQEECKFR
+                     ETLLPNNYNAYESDLYQGTYIALSKYGRVKRGSKVSPIMTVTHFLPRI"
+     sig_peptide     45..155
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000255}; propagated from UniProtKB/Swiss-Prot
+                     (P10767.4)"
+     mat_peptide     156..668
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /product="Fibroblast growth factor 6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10767.4)"
+     exon            391..494
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            495..744
+                     /gene="FGF6"
+                     /gene_synonym="HBGF-6; HST2"
+                     /inference="alignment:Splign:1.39.8"
+ORIGIN      
+        1 tttagggcca ttaattctga ccacgtgcct gagaggcaag gtggatggcc ctgggacaga
+       61 aactgttcat cactatgtcc cggggagcag gacgtctgca gggcacgctg tgggctctcg
+      121 tcttcctagg catcctagtg ggcatggtgg tgccctcgcc tgcaggcacc cgtgccaaca
+      181 acacgctgct ggactcgagg ggctggggca ccctgctgtc caggtctcgc gccgggctag
+      241 ctggagagat tgccggggtg aactgggaaa gtggctattt ggtggggatc aagcggcagc
+      301 ggaggctcta ctgcaacgtg ggcatcggct ttcacctcca ggtgctcccc gacggccgga
+      361 tcagcgggac ccacgaggag aacccctaca gcctgctgga aatttccact gtggagcgag
+      421 gcgtggtgag tctctttgga gtgagaagtg ccctcttcgt tgccatgaac agtaaaggaa
+      481 gattgtacgc aacgcccagc ttccaagaag aatgcaagtt cagagaaacc ctcctgccca
+      541 acaattacaa tgcctacgag tcagacttgt accaagggac ctacattgcc ctgagcaaat
+      601 acggacgggt aaagcggggc agcaaggtgt ccccgatcat gactgtcact catttccttc
+      661 ccaggatcta aggacccaca aaagaaggct cacagattta aagcatcatc tgttcgattg
+      721 aaattttgca ccagcgaaga attc
+//
+
