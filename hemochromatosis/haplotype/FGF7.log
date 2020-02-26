@@ -1,0 +1,28 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --bfile FGF6
+  --chr 12
+  --freq counts
+  --from-bp 4536137
+  --make-bed
+  --out FGF7
+  --to-bp 4561951
+
+Hostname: login
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/hemochromatosis/haplotype
+Start time: Thu Aug 30 15:08:21 2018
+
+Random number seed: 1535659701
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+10 variants loaded from .bim file.
+10124 people (0 males, 0 females, 10124 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to FGF7.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 10124 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--freq counts: Allele frequencies (founders only) written to FGF7.frq.counts .
+10 variants and 10124 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to FGF7.bed + FGF7.bim + FGF7.fam ... done.
+
+End time: Thu Aug 30 15:08:21 2018

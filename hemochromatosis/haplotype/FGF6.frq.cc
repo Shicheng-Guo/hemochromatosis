@@ -1,0 +1,11 @@
+ CHR             SNP   A1   A2        MAF_A        MAF_U  NCHROBS_A  NCHROBS_U
+  12       exm975531    T    C         NA         NA          0          0
+  12       exm975536    A    T         NA         NA          0          0
+  12   variant.22576    A    C         NA         NA          0          0
+  12       exm975538    0    G         NA         NA          0          0
+  12       exm975541    0    G         NA         NA          0          0
+  12       exm975542    0    C         NA         NA          0          0
+  12       exm975549    C    G         NA         NA          0          0
+  12       exm975571    T    C         NA         NA          0          0
+  12       exm975575    G    A         NA         NA          0          0
+  12       exm975576    0    C         NA         NA          0          0

@@ -1,0 +1,7 @@
+#PBS -N chr11
+#PBS -l nodes=1:ppn=1
+cd /gpfs/home/guosa/hpc/hemochromatosis/FGF6-imputation
+bcftools view chr11.dose.filter.vcf.gz -R chr11.anno.txt -Oz -o chr11.2LOF.vcf.gz
+bcftools annotate -x INFO,FILTER,FORMAT/DS,FORMAT/GP chr11.2LOF.vcf.gz -Oz -o chr11.2LOF.vcf.tmp.gz
+bcftools annotate -a chr11.anno.gz -h head.hdr -c CHROM,POS,REF,ALT,-,-,TAG3 chr11.2LOF.vcf.tmp.gz -Oz -o chr11.update.vcf.gz
+rm chr11.2LOF.vcf.tmp.gz

@@ -1,0 +1,33 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile FGF6-C21
+  --chr 12
+  --freq case-control
+  --from-bp 4536137
+  --out FGF6-C21
+  --recode fastphase
+  --to-bp 4561951
+
+Hostname: login
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/hemochromatosis/plink/fgf6
+Start time: Thu Aug 30 17:43:34 2018
+
+Random number seed: 1535669014
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+10 variants loaded from .bim file.
+10124 people (0 males, 0 females, 10124 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to FGF6-C21.nosex .
+7216 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 10124 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--freq case-control: Phenotype-stratified allele frequencies (founders only)
+written to FGF6-C21.frq.cc .
+10 variants and 10124 people pass filters and QC.
+Among remaining phenotypes, 251 are cases and 6965 are controls.  (2908
+phenotypes are missing.)
+FGF6-C21.chr-12.recode.phase.inp created.
+--recode fastphase complete.
+
+End time: Thu Aug 30 17:43:34 2018

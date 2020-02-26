@@ -1,0 +1,30 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --chr 6
+  --file exomechip_SNV_PASS_BEAGLE_chr6_phased_sel2
+  --from-bp 32544312
+  --make-bed
+  --out DRB1
+  --snps-only
+  --to-bp 32552716
+
+Hostname: birc7-lc
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/hemochromatosis/haplotype
+Start time: Wed Jun 20 20:19:45 2018
+
+Random number seed: 1529543985
+32112 MB RAM detected; reserving 16056 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (13461 variants, 10124 people).
+--file: DRB1-temporary.bed + DRB1-temporary.bim + DRB1-temporary.fam written.
+3 out of 13461 variants loaded from .bim file.
+10124 people (0 males, 0 females, 10124 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to DRB1.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 10124 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+3 variants and 10124 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to DRB1.bed + DRB1.bim + DRB1.fam ... done.
+
+End time: Wed Jun 20 20:19:48 2018

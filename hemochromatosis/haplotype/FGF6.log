@@ -1,0 +1,31 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --chr chr12
+  --file exomechip_SNV_PASS_BEAGLE_chr12_phased_sel2
+  --freq counts
+  --from-bp 4536137
+  --make-bed
+  --out FGF6
+  --to-bp 4561951
+
+Hostname: login
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/hemochromatosis/haplotype
+Start time: Thu Aug 30 15:08:08 2018
+
+Random number seed: 1535659688
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (11287 variants, 10124 people).
+--file: FGF6-temporary.bed + FGF6-temporary.bim + FGF6-temporary.fam written.
+10 out of 11287 variants loaded from .bim file.
+10124 people (0 males, 0 females, 10124 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to FGF6.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 10124 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--freq counts: Allele frequencies (founders only) written to FGF6.frq.counts .
+10 variants and 10124 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to FGF6.bed + FGF6.bim + FGF6.fam ... done.
+
+End time: Thu Aug 30 15:08:12 2018
